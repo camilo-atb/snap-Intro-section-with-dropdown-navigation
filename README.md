@@ -32,11 +32,11 @@ Los usuarios deben poder:
 
 **Versión móvil:**
 
-![Resultado móvil](readme/resultadom.png)
+![Resultado móvil](docs/readme/resultadom.png)
 
 **Versión escritorio:**
 
-![Resultado escritorio](readme/resultadod.png)
+![Resultado escritorio](docs/readme/resultadod.png)
 
 ---
 
