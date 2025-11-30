@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: "/snap-Intro-section-with-dropdown-navigation/",
 })
