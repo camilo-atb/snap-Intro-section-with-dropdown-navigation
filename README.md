@@ -32,17 +32,17 @@ Los usuarios deben poder:
 
 **Versión móvil:**
 
-![Resultado móvil](/readme/resultadom.png)
+![Resultado móvil](readme/resultadom.png)
 
 **Versión escritorio:**
 
-![Resultado escritorio](/readme//resultadod.png)
+![Resultado escritorio](readme/resultadod.png)
 
 ---
 
 ### 🔗 Enlace al proyecto
 
-- **Ver el sitio en línea:** *()*
+- [Ver el sitio en línea:](https://camilo-atb.github.io/snap-Intro-section-with-dropdown-navigation/)
 
 ---
 
