@@ -9,4 +9,7 @@ export default defineConfig({
     tailwindcss(),
   ],
   base: "/snap-Intro-section-with-dropdown-navigation/",
+  build: {
+    outDir: 'docs'
+  }
 })
