@@ -1,0 +1,39 @@
+@import "tailwindcss";
+/* @import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&display=swap'); */
+
+@theme{
+  /* Colores */
+  --color-gray-50:hsl(0, 0%, 98%);
+  --color-gray-500:hsl(0, 0%, 41%);
+  --color-gray-950:hsl(0, 0%, 8%);
+
+  /* Fuente */
+  --font-epilogue: "Epilogue", sans-serif;
+
+  /* Ancho topbar */
+  /*--w-snap:10%;
+  --w-navbar:90%;*/
+}
+
+/*
+- Mobile: 375px
+- Desktop: 1440px
+*/
+/*
+## Colors
+
+## Typography
+
+### Body Copy
+
+- Font size (paragraph): 18px
+
+### Font
+
+- Family: [Epilogue](https://fonts.google.com/specimen/Epilogue)
+- Weights: 500, 700
+
+"files.associations": {
+  "*.css": "tailwindcss"
+}
+*/
